@@ -3,15 +3,18 @@ body {
 }
 
 
-
+.title {
+	margin-left: 25%;
+	width: 750px;
+	text-align: center;
+}
 #quiz {
-	margin-left: 10px;
+	margin-left: 25%;
 	background: #d2def2;
 	padding: 10px 20px 10px 20px;
-	width: 400px;
+	width: 750px;
 	border-radius: 20px;
 	float: left;
-
 }
 
 input {
@@ -53,10 +56,10 @@ input {
 	visibility: hidden;
 	background: #ff5459;
 	padding: 10px 20px 10px 20px;
-	width: 400px;
+	width: 750px;
 	border-radius: 20px;
 	float: left;
-	margin-left: 20px;
+	margin-left: 25%;
 	font-size: 30px;
 
 
